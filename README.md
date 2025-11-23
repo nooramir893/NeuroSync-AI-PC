@@ -13,8 +13,6 @@ Meet the talented minds behind **NeuroSync AI**, a team committed to building an
 | **Dheeraj Kumar**  | [Dheeraj Kumar](https://www.linkedin.com/in/dheeraj-kumar-b21a741a2/) | [@dheerajkumar](https://github.com/dheerajkumar47) |
 | **Muhammad Zain Bashir** | [Muhammad Zain Bashir](https://www.linkedin.com/in/muhammad-zain-bashir-a04511323/)| [@muhammadzainbashir](https://github.com/zyrox443) |
 
-# **🤖 About Project**
-
 # 🧠 NeuroSync AI - Complete Project Guide
 
 ## 📋 Table of Contents
