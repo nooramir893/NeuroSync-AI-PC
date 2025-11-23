@@ -13,23 +13,7 @@ Meet the talented minds behind **NeuroSync AI**, a team committed to building an
 | **Dheeraj Kumar**  | [Dheeraj Kumar](https://www.linkedin.com/in/dheeraj-kumar-b21a741a2/) | [@dheerajkumar](https://github.com/dheerajkumar47) |
 | **Muhammad Zain Bashir** | [Muhammad Zain Bashir](https://www.linkedin.com/in/muhammad-zain-bashir-a04511323/)| [@muhammadzainbashir](https://github.com/zyrox443) |
 
-# 🧠 NeuroSync AI - Complete Project Guide
-
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Project Architecture](#project-architecture)
-- [Technology Stack](#technology-stack)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Environment Configuration](#environment-configuration)
-- [Running the Application](#running-the-application)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [How It Works](#how-it-works)
-- [Troubleshooting](#troubleshooting)
-
----
-
+# 🧠 *About Project*
 ## 🎯 Overview
 
 **NeuroSync AI** is an advanced mental health and wellness application that uses AI to analyze voice recordings and provide personalized insights, mood tracking, workout recommendations, and habit suggestions. The app combines cutting-edge AI technologies (Google Gemini, Hugging Face) with a beautiful, modern user interface built with React and TypeScript.
