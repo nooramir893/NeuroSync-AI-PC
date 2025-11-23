@@ -1,6 +1,6 @@
 # NeuroSync-AI-Personal-Coach
 
-# 👥 Team — *NeuroSync AI Personal Coach*
+# 👥 About Team — *NeuroSync AI Personal Coach*
 
 Meet the talented minds behind **NeuroSync AI**, a team committed to building an intelligent personal wellness and productivity coach powered by AI.
 
